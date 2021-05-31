@@ -59,8 +59,8 @@ const CTA = styled.div`
     max-width: 650px;
     width: 100%;
     display: flex;
-    justify-content: center; ${'' /* ADDED */}
-    align-items: center; ${'' /* ADDED */}
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
 `;
 
@@ -84,8 +84,7 @@ const SignUp = styled.a`
     font-weight: bold;
     color: #f9f9f9;
     background-color: #0063e5;
-    width: 100%; ${'' /* ADDED */}
-    margin-bottom: 12px;
+    width: 100%;
     letter-spacing: 1.5px;
     font-size: 18px;
     padding: 16.5px 0;
