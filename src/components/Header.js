@@ -71,7 +71,7 @@ const Header = (props) => {
           <NavMenu>
             <a href="/home">
               <img src="/images/home-icon.svg" alt="HOME" />
-              <span>TEST</span>
+              <span>HOME</span>
             </a>
             <a href="/home">
               <img src="/images/search-icon.svg" alt="SEARCH" />
@@ -188,9 +188,9 @@ const NavMenu = styled.div`
       }
     }
   }
-  /* @media (max-width: 768px) {
+  @media (max-width: 870px) {
     display: none;
-  } */
+  }
 `;
 
 const Login = styled.a`
