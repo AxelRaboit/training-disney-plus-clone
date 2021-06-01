@@ -46,7 +46,7 @@ const Detail = (props) => {
                         <span>Play</span>
                     </Player>
                     <Trailer>
-                        <img src="/images/play-icon-white.png" alt= "trailer image" />
+                        <img src="/images/play-icon-white.png" alt= "trailer pic" />
                         <span>Trailer</span>
                     </Trailer>
                     <AddList>
