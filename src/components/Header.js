@@ -71,7 +71,7 @@ const Header = (props) => {
           <NavMenu>
             <a href="/home">
               <img src="/images/home-icon.svg" alt="HOME" />
-              <span>HOME</span>
+              <span>TEST</span>
             </a>
             <a href="/home">
               <img src="/images/search-icon.svg" alt="SEARCH" />
