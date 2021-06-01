@@ -105,6 +105,4 @@ const Description = styled.p`
     letter-spacing: 1.5px;
 `;
 
-
-
 export default Login;

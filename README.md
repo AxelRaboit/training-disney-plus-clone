@@ -89,3 +89,7 @@ BUNDLE / MODULE USED:
 
 //To make easier to use redux
 - yarn add @reduxjs/toolkit
+
+//To add a carousel with react
+- yarn add react-slick --save
+- yarn add slick-carousel
