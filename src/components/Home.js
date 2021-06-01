@@ -42,8 +42,6 @@ const Home = (props) => {
                 break;
             default:
                 return 0;
-
-            
         }
       });
 
