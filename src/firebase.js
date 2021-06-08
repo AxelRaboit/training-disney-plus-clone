@@ -2,12 +2,12 @@ import firebase from "firebase";
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyDB8FgInqDDs84O51Qnb0vgJnMTM2ZORbs",
-    authDomain: "disneyplus-clone-375e8.firebaseapp.com",
-    projectId: "disneyplus-clone-375e8",
-    storageBucket: "disneyplus-clone-375e8.appspot.com",
-    messagingSenderId: "1007346078408",
-    appId: "1:1007346078408:web:87ae10b75e97d912a78bfd"
+    apiKey: "AIzaSyCClZTZvJ2hEdDWepZKHbuvH-G7KNm7gZI",
+    authDomain: "disney-plus-clone-50123.firebaseapp.com",
+    projectId: "disney-plus-clone-50123",
+    storageBucket: "disney-plus-clone-50123.appspot.com",
+    messagingSenderId: "945215564915",
+    appId: "1:945215564915:web:714cd6e75b865cb0a34e06"
   };
 
   const firebaseApp = firebase.initializeApp(firebaseConfig)
