@@ -21,7 +21,7 @@ const Home = (props) => {
   let trending = [];
 
   useEffect(() => {
-    console.log("hello");
+    /* console.log("hello"); */
     db.collection("movies").onSnapshot((snapshot) => {
       snapshot.docs.map((doc) => {
         switch (doc.data().type) {
